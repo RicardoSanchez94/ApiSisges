@@ -315,6 +315,7 @@ namespace ServicioApi.Model.Metodos
                         cmd.CommandTimeout = 0;
                         cmd.CommandText = $@"exec dbo.spConciliacionAutomaticaCAAU @fecha='{fecha}'";
                         await cmd.ExecuteReaderAsync();
+                        //ejecucion
                     }
                 }
                 response.error = false;

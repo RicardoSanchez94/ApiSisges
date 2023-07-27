@@ -1,27 +1,29 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ricardo.sanchez\\Documents\\proyecto fashions\\ProyectosFSPAzure\\Apisisgesmaster\\R17_Api-Integracion-Tiendas\\ServicioApi\\ServicioApi.csproj": {}
+    "C:\\Users\\Ricardo Sanchez\\Documents\\fsp\\ApiSisges\\ServicioApi\\ServicioApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ricardo.sanchez\\Documents\\proyecto fashions\\ProyectosFSPAzure\\Apisisgesmaster\\R17_Api-Integracion-Tiendas\\ServicioApi\\ServicioApi.csproj": {
+    "C:\\Users\\Ricardo Sanchez\\Documents\\fsp\\ApiSisges\\ServicioApi\\ServicioApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ricardo.sanchez\\Documents\\proyecto fashions\\ProyectosFSPAzure\\Apisisgesmaster\\R17_Api-Integracion-Tiendas\\ServicioApi\\ServicioApi.csproj",
+        "projectUniqueName": "C:\\Users\\Ricardo Sanchez\\Documents\\fsp\\ApiSisges\\ServicioApi\\ServicioApi.csproj",
         "projectName": "ServicioApi",
-        "projectPath": "C:\\Users\\ricardo.sanchez\\Documents\\proyecto fashions\\ProyectosFSPAzure\\Apisisgesmaster\\R17_Api-Integracion-Tiendas\\ServicioApi\\ServicioApi.csproj",
-        "packagesPath": "C:\\Users\\ricardo.sanchez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ricardo.sanchez\\Documents\\proyecto fashions\\ProyectosFSPAzure\\Apisisgesmaster\\R17_Api-Integracion-Tiendas\\ServicioApi\\obj\\",
+        "projectPath": "C:\\Users\\Ricardo Sanchez\\Documents\\fsp\\ApiSisges\\ServicioApi\\ServicioApi.csproj",
+        "packagesPath": "C:\\Users\\Ricardo Sanchez\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ricardo Sanchez\\Documents\\fsp\\ApiSisges\\ServicioApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ricardo.sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ricardo Sanchez\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "https://www.nuget.org/api/v2/": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
@@ -151,7 +153,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
